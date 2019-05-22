@@ -45,15 +45,19 @@ body {
     "bottom-left informations"
 }
 
+
+
+
 .logo__container {
   justify-self: center;
-  margin-top:8vh;
+  margin-top:7vh;
   transform: translateX(-25%);
 }
 
-.logo {
+.logo__left {
   width:140%;
   height:auto;
+  display: block;
 }
 
 .main {
@@ -76,8 +80,9 @@ body {
 
 .clients li {
   display: inline;
-  margin-right:10px;
+  margin-right:5px;
   font-size:1.6rem;
+  text-decoration:none;
 }
 
 .bottom-left{
@@ -92,7 +97,7 @@ body {
 
 }
 
-.text-left{
+.informations__texte{
   margin-top:1vh;
   margin-left:1vw;
 }
@@ -102,4 +107,49 @@ body {
   padding-right:1vw;
   padding-bottom:1vw;
   text-align:right;
+}
+
+.logo__small {
+  display:none;
+  width:130%;
+  height:auto;
+}
+
+@media only screen and (max-width:900px) {
+  .presentation__container {
+    align-items: center;
+  }
+
+  .presentation__container li {
+    font-size:1rem;
+  }
+
+  .presentation__container h1 {
+    font-size:1.5rem;
+  }
+
+  .logo__container {
+    margin-top:7vh;
+    transform: translateX(-25%);
+  }
+
+  .logo__left {
+    display:none;
+  }
+
+  .logo__small {
+    display:block;
+    width:25%;
+    margin-bottom:2vh;
+  }
+
+  .informations-texte {
+    text-align:center;
+    margin-top:3vh;
+  }
+
+  .juridique{
+    text-align:center;
+    font-size:0.7rem;
+  }
 }
