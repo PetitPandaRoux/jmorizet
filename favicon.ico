@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg183"
+   version="1.1"
+   viewBox="0 0 31.841545 31.841545"
+   height="31.841545mm"
+   width="31.841545mm">
+  <defs
+     id="defs177">
+    <clipPath
+       id="SVGID_2_">
+      <use
+         id="use7"
+         overflow="visible"
+         xlink:href="#SVGID_1_"
+         style="overflow:visible"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="SVGID_4_">
+      <use
+         id="use19"
+         overflow="visible"
+         xlink:href="#SVGID_3_"
+         style="overflow:visible"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="clipPath151">
+      <use
+         id="use149"
+         overflow="visible"
+         xlink:href="#SVGID_3_"
+         style="overflow:visible"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="clipPath155">
+      <use
+         id="use153"
+         overflow="visible"
+         xlink:href="#SVGID_3_"
+         style="overflow:visible"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <rect
+       height="229.41"
+       width="342.23499"
+       y="3.04"
+       x="-59.416"
+       id="SVGID_1_" />
+    <rect
+       height="229.41"
+       width="342.23499"
+       y="3.04"
+       x="-59.416"
+       id="SVGID_3_" />
+  </defs>
+  <metadata
+     id="metadata180">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-37.008816,-99.464575)"
+     id="layer1">
+    <g
+       id="g30"
+       transform="matrix(0.26458333,0,0,0.26458333,23.364254,84.202615)">
+      <g
+         id="g12">
+        <defs
+           id="defs5">
+          <rect
+             height="229.41"
+             width="342.23499"
+             y="3.04"
+             x="-59.416"
+             id="rect223" />
+        </defs>
+        <clipPath
+           id="clipPath161">
+          <use
+             id="use159"
+             overflow="visible"
+             xlink:href="#SVGID_1_"
+             style="overflow:visible"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </clipPath>
+        <path
+           id="path10"
+           d="m 101.938,99.458 h -2.216 v 24.559 c 0,9.038 -7.651,13.695 -14.971,13.695 -2.771,0 -4.491,-0.444 -6.651,-1.331 l 0.221,-0.499 c 2.163,0.886 3.659,1.274 6.431,1.274 3.549,0 6.711,-0.998 9.592,-3.104 -0.778,0.11 -1.498,0.166 -2.161,0.166 -10.313,0 -11.755,-12.307 -11.755,-17.741 V 99.457 H 78.21 v -0.555 h 23.729 v 0.556 z"
+           clip-path="url(#SVGID_2_)"
+           style="fill:#df5a53" />
+      </g>
+      <polygon
+         id="polygon14"
+         points="135.746,137.156 135.746,98.903 158.365,98.903 158.365,99.458 156.147,99.458 156.147,137.156 158.365,137.156 158.365,137.711 133.528,137.711 133.528,137.156 "
+         style="fill:#df5a53" />
+      <g
+         id="g28">
+        <defs
+           id="defs17">
+          <rect
+             height="229.41"
+             width="342.23499"
+             y="3.04"
+             x="-59.416"
+             id="rect231" />
+        </defs>
+        <clipPath
+           id="clipPath170">
+          <use
+             id="use168"
+             overflow="visible"
+             xlink:href="#SVGID_3_"
+             style="overflow:visible"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </clipPath>
+        <path
+           id="path22"
+           d="m 57.943,126.512 c 0,-6.209 4.987,-11.198 11.197,-11.198 6.21,0 11.2,4.989 11.2,11.198 0,6.208 -4.99,11.199 -11.2,11.199 -6.21,0 -11.197,-4.991 -11.197,-11.199"
+           clip-path="url(#SVGID_4_)"
+           style="fill:#df5a53" />
+        <path
+           id="path24"
+           d="m 134.604,111.1 -11.643,26.61 h -2.219 l -12.084,-27.33 v 24.226 c 0,1.664 0.94,2.551 2.217,2.551 v 0.553 h -5.101 v -0.553 c 1.275,0 2.218,-0.887 2.218,-2.551 v -32.598 c 0,-1.608 -0.776,-2.55 -2.218,-2.55 v -0.555 h 22.564 z"
+           clip-path="url(#SVGID_4_)"
+           style="fill:#df5a53" />
+        <path
+           id="path26"
+           d="m 111.745,58.304 c -32.837,0 -59.553,26.715 -59.553,59.552 0,32.837 26.716,59.552 59.553,59.552 32.836,0 59.55,-26.715 59.55,-59.552 0,-32.837 -26.714,-59.552 -59.55,-59.552 m 0,119.725 c -33.181,0 -60.175,-26.995 -60.175,-60.174 0,-33.179 26.994,-60.172 60.175,-60.172 33.178,0 60.171,26.993 60.171,60.172 0,33.179 -26.993,60.174 -60.171,60.174"
+           clip-path="url(#SVGID_4_)"
+           style="fill:#df5a53" />
+      </g>
+    </g>
+  </g>
+</svg>
