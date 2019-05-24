@@ -113,7 +113,7 @@ body {
 }
 
 .telephone {
-  font-size:0.8rem
+  font-size:0.79rem
 }
 
 a[href^="tel"] {
@@ -121,8 +121,14 @@ a[href^="tel"] {
   text-decoration: none;
 }
 
-.mail .adresse {
-  font-size:0.8rem
+.mail, .adresse {
+  font-size:0.8rem;
+
+
+}
+
+.mail {
+    unicode-bidi: bidi-override; direction: rtl;
 }
 
 .juridique {
@@ -249,13 +255,13 @@ a[href^="tel"] {
 
   .logo__container {
     justify-self: center;
-    margin-top:7vh;
+    margin-top:4vh;
     transform: translateX(-25%);
   }
 
   .logo__left {
     display:block;
-    width:140%;
+    width:130%;
   }
 
   .logo__small {
