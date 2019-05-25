@@ -113,7 +113,8 @@ body {
 }
 
 .telephone {
-  font-size:0.79rem
+  font-size:0.79rem;
+  color:#df5a53ff;
 }
 
 a[href^="tel"] {
