@@ -100,7 +100,7 @@ body {
   flex-direction:column;
   justify-content: center;
   align-items: center;
-  margin-top:8vh;
+  margin-top:6vh;
   text-align:center;
 
 }
@@ -271,7 +271,7 @@ a[href^="tel"] {
 
   .informations__texte {
     text-align: center;
-    margin-top:2.8vh;
+    margin-top:5vh;
     align-items: flex-start;
   }
 
