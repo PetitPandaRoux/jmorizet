@@ -107,7 +107,7 @@ body {
 
 .informations__texte h2{
   text-align:center;
-  font-size:1rem;
+  font-size:0.8rem;
   font-weight:bold;
   margin-bottom:1vh;
 }
@@ -124,8 +124,6 @@ a[href^="tel"] {
 
 .mail, .adresse {
   font-size:0.8rem;
-
-
 }
 
 .mail {
@@ -147,6 +145,8 @@ a[href^="tel"] {
   height:auto;
   margin-bottom: 5vh;
 }
+
+/* Pour les tablettes */
 
 @media (orientation:landscape) and (max-width : 700px){
   .logo__small {
@@ -182,6 +182,7 @@ a[href^="tel"] {
   }
 }
 
+/* Pour les petits écrans */
 @media only screen and (min-width:700px) {
   .presentation__container {
     align-items: center;
@@ -195,7 +196,6 @@ a[href^="tel"] {
     font-size:1.3rem;
   }
   
-
   .contact {
     font-size:1.25rem;
   }
@@ -242,8 +242,8 @@ a[href^="tel"] {
 }
 
 
+/* Pour les grands écrans */
 @media only screen and (min-width:920px) {
-
 
   .presentation__container {
     display:flex;
@@ -278,7 +278,6 @@ a[href^="tel"] {
   .informations__texte h2 {
     text-align:left;
   }
-
 
   .juridique {
     display:block;
