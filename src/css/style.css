@@ -85,7 +85,7 @@ body {
 .contact {
   position: relative;
   top:4px;
-  font-size: 1.05rem;
+  font-size: 0.95rem;
   font-weight:bold;
 }
 
@@ -143,7 +143,7 @@ a[href^="tel"] {
   width:50%;
   margin-left:6vw;
   height:auto;
-  margin-bottom: 5vh;
+  margin-bottom: 4vh;
 }
 
 /* Pour les tablettes */
@@ -186,6 +186,7 @@ a[href^="tel"] {
 @media only screen and (min-width:700px) {
   .presentation__container {
     align-items: center;
+    margin-left:1vw;
   }
 
   .presentation__container h1 {
@@ -268,7 +269,11 @@ a[href^="tel"] {
   .logo__small {
     display:none;
   }
-
+  
+  .contact {
+    font-size:1.25rem;
+  }
+  
   .informations__texte {
     text-align: center;
     margin-top:5vh;
