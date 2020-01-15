@@ -122,12 +122,8 @@ a[href^="tel"] {
   text-decoration: none;
 }
 
-.mail, .adresse {
+.email, .adresse {
   font-size:0.8rem;
-}
-
-.mail {
-    unicode-bidi: bidi-override; direction: rtl;
 }
 
 .juridique {
